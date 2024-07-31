@@ -1,0 +1,1 @@
+# AMD-realtime-screen-translator-
